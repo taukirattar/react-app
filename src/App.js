@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deployed by Taukir
+          Deployed by batman
         </a>
       </header>
     </div>
